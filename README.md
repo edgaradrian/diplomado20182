@@ -1,3 +1,3 @@
 ## Diplomado 2018-2
 
-Ejercicios
+Ejercicios y ejemplos del diplomado iOSLab UNAM 2018
