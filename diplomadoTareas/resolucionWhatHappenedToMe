@@ -1,0 +1,9 @@
+RESOLUCIÓN DEL PROBLEMA “whatHappenedToMe”
+
+1. Al ejecutar mandaba el mensaje de outletText sin valor.
+2. Revisé las conexiones y efectivamente el nombre de la conexión no correspondía con el nombre de la variable indicada.
+3. Le cambié el nombre de la variable en el ViewController.swift a outtletText y le coloqué outletText.
+4. Luego le coloqué @IBOutlet al inicio de la declaración para realizar la conexión.
+5. Observé que había dos botones y dos Campos de Texto, los separé para trabajar con el botón que imprime el mensaje.
+6. Le agregué @IBAction para hacer la conexión.
+7. Al ejecutarlo ya no me mandó error.
